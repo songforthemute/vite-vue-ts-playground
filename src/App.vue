@@ -2,6 +2,8 @@
 import HelloWorld from "./components/HelloWorld.vue";
 import Sample from "./components/sample.vue";
 import Sample1 from "./components/sample1.vue";
+import Sample2 from "./components/Sample2.vue";
+import Main from "./components/toy/Main.vue";
 </script>
 
 <template>
@@ -14,7 +16,9 @@ import Sample1 from "./components/sample1.vue";
   <!--    </a>-->
   <!--  </div>-->
   <!--  <Sample/>-->
-  <Sample1 />
+<!--  <Sample1 />-->
+<!--  <Sample2/>-->
+  <Main/>
 </template>
 
 <style scoped>
